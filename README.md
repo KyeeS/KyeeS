@@ -1,2 +1,7 @@
-![Metrics Display](https://github.com/KyeeS/KyeeS/blob/master/github-metrics.svg)
+<div align="center">
+  <h1>KyeeS Workspace</h1>
+  <p>Software Developer | Tech Enthusiast</p>
+</div>
+
+![Metrics Full Layout](/github-metrics.svg)
 
