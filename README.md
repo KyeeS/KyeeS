@@ -2,7 +2,7 @@
   <h1> 🌌 KyeeS Workspace </h1>
   <p>Software Developer | Tech Enthusiast </p>
 
-  <img src="/github-metrics.svg" width="100%" alt="Metrics">
+  <img src="/github-metrics.svg" width="60%" alt="Metrics">
 </div>
 
 
